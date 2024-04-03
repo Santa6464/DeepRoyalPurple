@@ -1,0 +1,80 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lavender Town (2) - Route 1 (5)
+2,North,8,5,South,0
+# Route 1 (5) - Town 2 (21)
+5,East,0,21,West,8
+# Lerucean Town (23) - Cedolan City (7)
+23,West,78,7,East,0
+# Town 2 (21) - Route 3 (30)
+21,East,8,30,West,0
+# Route 2 (22) - Town 2 (21)
+22,South,44,21,North,0
+# Haunted House Gardens (28) - Town 2 (21)
+28,South,76,21,North,0
+# Haunted House Gardens (28) - Route 2 (22)
+28,East,10,22,West,0
+# Starry Night Village (31) - Route 3 (30)
+31,West,0,30,East,10
+# Route 3 (30) - Safari Outside (66)
+30,0,61,66,153,0
+# Ingido Plateau outside (35) - Victory Road Zone 3 (112)
+35,South,19,112,North,0
+# Victory Road Zone 4 (113) - Ingido Plateau outside (35)
+113,North,54,35,South,0
+# Town 6 (42) - Route 7 (43)
+42,South,8,43,North,0
+# Route 7 (43) - Town 7 (44)
+43,South,0,44,North,7
+# Town 7 (44) - Route 11 (45)
+44,South,0,45,North,0
+# Route 10 (50) - Town 7 (44)
+50,East,39,44,West,0
+# Route 8 (46) - Town 7 (44)
+46,West,0,44,East,9
+# Route 11 (45) - Town 10 (69)
+45,South,0,69,North,16
+# Route 10 (50) - Route 11 (45)
+50,East,71,45,West,0
+# Route 8 (46) - Route 11 (45)
+46,West,23,45,East,0
+# Town 8 (47) - Route 8 (46)
+47,West,26,46,East,0
+# Route 9 (48) - Town 8 (47)
+48,West,29,47,East,0
+# Town 9 (51) - Route 10 (50)
+51,South,14,50,North,0
+# Town 10 (69) - Victory Road (81)
+69,West,5,81,East,0
+# Route 14 (80) - Town 10 (69)
+80,North,0,69,South,15
+# Route 12 (70) - Town 10 (69)
+70,West,0,69,East,7
+# Route 13 (78) - Town 11 (79)
+78,North,0,79,South,10
+# Town 11 (79) - Route 14 (80)
+79,North,0,80,South,0
+# Victory Road (81) - Victory Road Zone 1 (82)
+81,North,14,82,South,0
+# Victory Road Zone 2 (111) - Victory Road (81)
+111,South,59,81,North,0
+# Victory Road Zone 3 (112) - Victory Road Zone 1 (82)
+112,South,0,82,North,0
+# Victory Road Zone 4 (113) - Victory Road Zone 1 (82)
+113,East,70,82,West,0
+# Victory Road Zone 2 (111) - Victory Road Zone 1 (82)
+111,East,0,82,West,0
+# Victory Road Zone 2 (111) - Victory Road Zone 3 (112)
+111,North,73,112,South,0
+# Victory Road Zone 2 (111) - Victory Road Zone 4 (113)
+111,North,0,113,South,0
+# Victory Road Zone 4 (113) - Victory Road Zone 3 (112)
+113,East,0,112,West,0
+# Route 4 (33) - Town 4 (34)
+33,South,0,34,North,11
+# Route 5 (39) - Town 4 (34)
+39,North,21,34,South,0
+# Town 5 (40) - Route 5 (39)
+40,East,0,39,West,71
+# Route 6 (41) - Town 5 (40)
+41,East,30,40,West,0
