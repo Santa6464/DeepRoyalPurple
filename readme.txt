@@ -326,4 +326,8 @@ Zone 4
 ======================================================================================================
 Interesting ideas to implement later down the line
 
-1. Randomization all pokemon
+1. Randomization all pokemon (right away?)
+2. Fashion?
+3. Bug catching contest?
+4. Make music tracks
+5. Add in DS tracks
