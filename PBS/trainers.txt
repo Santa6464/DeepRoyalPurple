@@ -119,12 +119,41 @@ Pokemon = BLASTOISE,63
 #-------------------------------
 [DOCTOR,Celina]
 LoseText = Fooey!
-Pokemon = SWADLOON,17
-Pokemon = CHIKORITA,15
-Pokemon = SUNFLORA,18
+Pokemon = SUNFLORA,17
+    Moves = SUNNYDAY,SEEDBOMB,EARTHPOWER,DAZZLINGGLEAM
+    AbilityIndex = 0
+    ITEM = HEATROCK
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = CHIKORITA,16
+    Moves = SUNNYDAY,SYNTHESIS,SUBSTITUTE,RAZORLEAF
+    AbilityIndex = 0
+    Gender = female
+    ITEM = EVIOLITE
+    IV = 20,20,20,20,20,20
+Pokemon = SWADLOON,18
+    Moves = BUGBITE,SOLARBEAM,ELECTROWEB,LIGHTSCREEN
+    AbilityIndex = 1
+    ITEM = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
 Pokemon = LEAFEON,17
-Pokemon = PETILIL,15
-Pokemon = FERROSEED,18
+    Moves = COVET,MAGICALLEAF,XSCISSOR,SHADOWBALL
+    AbilityIndex = 2
+    ITEM = ASSAULTVEST
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = PETILIL,16
+    Moves = SLEEPPOWDER,CHARM,GIGADRAIN,ENCORE
+    AbilityIndex = 1
+    Gender = female
+    IV = 20,20,20,20,20,20
+Pokemon = FERROSEED,17
+    Moves = LEECHSEED,TOXIC,IRONDEFENSE,SUBSTITUTE
+    AbilityIndex = 0
+    Item = ROCKYHELMET
+    Gender = male
+    IV = 20,20,20,20,20,20
 #-------------------------------
 [MAYOR,Corey]
 LoseText = TO BE CHANGED
