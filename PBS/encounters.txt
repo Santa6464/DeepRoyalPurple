@@ -1,122 +1,113 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[002] # Lappet Town
+[002] # Lavnedar Town
 Water,2
     60,TENTACOOL,14,19
-    30,MANTYKE,15,16
-    10,REMORAID,14,16
 OldRod
-    100,MAGIKARP,16,19
 GoodRod
-    60,BARBOACH,17,18
-    20,KRABBY,15,16
-    20,SHELLDER,16,19
 SuperRod
-    40,CHINCHOU,17,19
-    40,QWILFISH,16,19
-    15,CORSOLA,15,18
-    5,STARYU,15,17
 #-------------------------------
 [005] # Route 1
-Land,21
-    40,PIDGEY,11,14
-    40,RATTATA,11,14
-    9,PIDGEY,11,13
-    9,RATTATA,11,13
-    1,PIDGEY,14
-    1,RATTATA,14
-LandNight,21
-    39,RATTATA,10,14
-    30,HOOTHOOT,10,13
-    20,SPINARAK,8,12
-    9,HOOTHOOT,10,14
-    1,HOOTHOOT,14
-    1,RATTATA,15
-PokeRadar,20
-    100,STARLY,12,15
+Land,10
+    5,PIDGEY,2,4
+    5,COMBEE,2,4
+    5,STARLY,2,4
+    5,TEDDIURSA,2,4
+    5,MAREEP,2,4
+    5,POOCHYENA,2,4
+    5,DUCKLETT,2,4
+    5,LILLIPUP,2,4
+    5,WOOLOO,2,4
+    5,SMOLIV,2,4
+    5,WURMPLE,2,4
+    5,DRIFLOON,2,4
+    5,SKITTY,2,4
 #-------------------------------
-[005,1] # Route 1
-Land,21
-    40,PIDGEY,15,18
-    40,RATTATA,14,18
-    10,SENTRET,13,17
-    5,PIDGEY,14,16
-    5,RATTATA,13,16
-LandNight,21
-    40,RATTATA,14,18
-    30,HOOTHOOT,14,17
-    20,SPINARAK,12,16
-    10,CLEFAIRY,11,15
+[022] # Route 2
+Land,10
+    5,FLETCHLING,5,7
+    5,PHANTUMP,5,7
+    5,DEERLING,5,7
+    5,SKIDDO,5,7
+    5,ROOKIDEE,5,7
+    5,CUTIEFLY,5,7
+    5,BUNEARY,5,7
+    5,SENTRET,5,7
+    5,HOUNDOUR,5,7
+    5,PUMPKABOO,5,7
+    5,SPINARAK,5,7
+    5,APPLIN,5,7
+    5,ZIGZAGOON,5,7
 #-------------------------------
-[021] # Route 2
-Land,21
-    50,RATTATA,12,15
-    30,POOCHYENA,11,15
-    10,SHINX,10,12
-    10,SHINX,10,11
-Water,2
-    60,MAGIKARP,7,10
-    30,GOLDEEN,11,14
-    10,STARYU,12,15
-OldRod
-    70,MAGIKARP,7,10
-    30,MAGIKARP,9,15
-GoodRod
-    60,GOLDEEN,12,14
-    20,FINNEON,12,15
-    20,MAGIKARP,12,17
+[028] # Haunted House Gardens
+Land,10
+    5,WOOPER_1,6,8
+    5,MUDKIP,6,8
+    5,LECHONK,6,8
+    5,PHANPY,6,8
+    5,SANDSHREW,6,8
+    5,MUDBRAY,6,8
+    5,CUBONE,6,8
+    5,CROAGUNK,6,8
+    5,SPOINK,6,8
+#-------------------------------
+[029] # Haunted House
+Cave,5
+    1,MIMIKYU,7,9
+    5,GASTLY,7,9
+    5,SHUPPET,7,9
+    5,CHARCADET,7,9
+    5,NICKIT,7,9
+    5,LITWICK,7,9
+    5,GOLETT,7,9
+    5,MORELULL,7,9
+    5,TANDEMAUS,7,9
+    5,ABRA,7,9
+#-------------------------------
+[030] # Route 3
+Land,10
+    5,SHINX,10,12
+    5,FIDOUGH,10,12
+    5,RALTS,10,12
+    5,SPRIGATITO,10,12
+    5,YAMPER,10,12
+    5,PETILIL,10,12
+    5,WATTREL,10,12
+    5,BLITZLE,10,12
+    5,MEOWTH,10,12
+    1,SEVIPER,10,12
+    5,PURRLOIN,10,12
+    5,MURKROW,10,12
+#-------------------------------
+[032] # Forest
+Land,10
+    5,STANTLER,15,17
+    5,PIKACHU,15,17
+    5,GIRAFARIG,15,17
+    5,TURTWIG,15,17
+    5,BULBASAUR,15,17
+    5,HOOTHOOT,15,17
+    5,ODDISH,15,17
+    5,CHIKORITA,15,17
+    5,SHROOMISH,15,17
+    5,SEEDOT,15,17
+#-------------------------------
+[034] # TOWN 4
 SuperRod
-    40,FINNEON,12,15
-    40,GOLDEEN,12,14
-    15,STARYU,12,15
-    5,STARYU,14,17
-HeadbuttLow
-    50,PINECO,11,13
-    30,LEDYBA,6,8
-    19,SPINARAK,9,12
-    1,MUNCHLAX,11,14
-HeadbuttHigh
-    50,PINECO,11,13
-    30,WURMPLE,6,8
-    20,SPINARAK,9,12
-PokeRadar,10
-    100,STANTLER,14
+    5,MAGIKARP,10,20
+    5,GOLDEEN,10,20
+    5,LUVDISC,10,20
 #-------------------------------
-[028] # Natural Park
-Land,21
-    20,CATERPIE,10
-    20,SUNKERN,12
-    20,WEEDLE,10
-    15,PIDGEY,10,14
-    15,PIDGEY,12,14
-    5,KAKUNA,10
-    5,METAPOD,10
-LandNight,21
-    30,HOOTHOOT,10,14
-    30,SPINARAK,10,15
-    20,PINECO,9,13
-    10,DROWZEE,9,15
-    10,NATU,12,14
-LandMorning,21
-    25,CATERPIE,10,12
-    25,WEEDLE,10,12
-    20,PIDGEY,10,14
-    15,KAKUNA,10
-    15,METAPOD,10
-BugContest,21
-    20,CATERPIE,7,18
-    20,WEEDLE,7,18
-    10,KAKUNA,9,18
-    10,METAPOD,9,18
-    10,PARAS,10,17
-    10,VENONAT,10,16
-    5,BEEDRILL,12,15
-    5,BUTTERFREE,12,15
-    5,PINSIR,13,14
-    5,SCYTHER,13,14
-PokeRadar,40
-    50,BUTTERFREE,15,18
-    50,BEEDRILL,15,18
+[039] # Route 5
+Land,10
+    5,SQUIRTLE,18,19
+    5,MARILL,18,19
+    5,TOTODILE,18,19
+    5,BUIZEL,18,19
+    5,PANCHAM,18,19
+    5,VENONAT,18,19
+    5,SWABLU,18,19
+    5,YANMA,18,19
 #-------------------------------
 [031] # Route 3
 Land,21
@@ -155,20 +146,6 @@ HeadbuttHigh
     50,SEEDOT,14,17
     30,SHROOMISH,14,17
     20,BURMY,12,15
-#-------------------------------
-[034] # Ice Cave
-Cave,5
-    40,SWINUB,16,18
-    20,SNEASEL,14,16
-    20,SNORUNT,12,15
-    10,SMOOCHUM,11,14
-    10,SNOVER,14
-#-------------------------------
-[039] # Route 4
-Land,21
-    50,SHELLOS_1,12,15
-    40,GRIMER,13,15
-    10,MURKROW,12,14
 #-------------------------------
 [041] # Route 5
 Land,21
@@ -309,3 +286,4 @@ Land,21
     10,PIKACHU,11,14
     10,SANDSHREW_1,11,14
     10,VULPIX_1,11,14
+#-------------------------------
