@@ -25,7 +25,7 @@ TABLE OF CONTENTS
 
 8) Wild Encounters
 
-9) Interesting ideas to implement later down the line
+9) Interesting ideas to implement
 
 ==================================================================================================
 Resources -
@@ -198,7 +198,7 @@ Routes
 14. Route 14
 	a. Just a quick surfing path from Town 11 back to town 10
 15. Victory Road (complete, but zones are not)
-	a. There are 4 zones that all make up a massive square. This is intended to give us four high value catches before the elite 4.
+	a. There are 4 zones that all make up a massive square. This is intended to give us four high value catches before the elite 4. MAKE THEM ALL SO SMALL SO THEY CAN BE PRETTY.
 	A. Zone 1
 		a. Lower right section. Honey colored trees.
 	B. Zone 2
@@ -324,10 +324,12 @@ Zone 3
 Zone 4
 - Wild Encounter
 ======================================================================================================
-Interesting ideas to implement later down the line
+Interesting ideas to implement
 
 1. Randomization all pokemon (right away?)
 2. Fashion?
 3. Bug catching contest?
 4. Make music tracks
 5. Add in DS tracks
+6. Make TMs permamnent
+7. Make Celina give the headbutt TM
